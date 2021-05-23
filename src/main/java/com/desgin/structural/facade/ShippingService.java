@@ -1,4 +1,4 @@
-package com.desgin.structural.facde;
+package com.desgin.structural.facade;
 
 /**
  * @author isysc1@163.com
