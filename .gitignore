@@ -1,5 +1,5 @@
 HELP.md
-target/
+mediaPlayer/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
