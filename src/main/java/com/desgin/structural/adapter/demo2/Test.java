@@ -1,14 +1,11 @@
-/**
- * Zhejiang Yunrong Innovation Technology Co. Ltd
- * Copyright 2015-2021 | www.yunrong.cn . All rights reserved .
- */
+
 package com.desgin.structural.adapter.demo2;
 
 import java.math.BigDecimal;
 import java.util.Date;
 
 /**
- * @author Skow <yangsc@yunrong.cn>
+ * @author Skow <isysc1@163.com>
  * @description
  * @date 2021/6/16 8:36 下午
  */
